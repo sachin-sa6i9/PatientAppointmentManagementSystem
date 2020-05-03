@@ -1,0 +1,18 @@
+In DataModel/Resources folder.
+Three .csv files can be found (Doctors_Departments.csv // PatientInfo.csv // Registerd_Patient_Data.csv)
+
+1. Doctors_Departments.csv (Should must be there in the folder)
+   This file containd the name and department of the doctors while creating an appointment 
+    when you are asked to type the name of the doctor the name must be one of the name from
+    this file you can add more doctors name and department to the file.
+
+2. PatientInfo.csv (Don't need to keep this file in the folder can be deleted)
+    When you enter the patient info in the console application by entering the MRN Id,
+    Name of the patient, Email and Contact number this file will be created automatically
+    and you can add as many patient as you want by entering the patient details in the console application.
+
+3. Registerd_Patient_Data.csv (Don't need to keep this file in the folder can be deleted)
+   When you type MRN Id to Create an appointment for the patient and then by typing doctor name
+   and entering the date and time of the appointment this file will be created automatically 
+   which contains the Appointment registry having all the patient info assigned doctor to the patient
+   and assinged time and date for the appointment.

@@ -1,0 +1,34 @@
+1. Type username - qqqq
+2. Type password - qqqq
+
+3. One message will appear(If you want to enter patient details then type y else press enter)
+
+4. If you press enter without typing anything no new patient will be added.
+
+5. But if you type y.
+6. Add MRN Id.
+7. Add Name of the patient.
+8. Add Email id of the patient.
+9. Add Contact number of the patient.
+
+Then you will get an option to set the appointment of the patient by entering his/her MRN Id
+if you do not want to set the new appointment then press enter and you'll move on to the next stage.
+
+10. If you type the MRN Id of the patient to set and appointment.
+
+11. Then you need to select the Doctor for the patient by typing the name of the doctor.
+
+For the name and department of the doctor please have a look at the Resources.txt
+
+12. After entering the name of doctor(Department will also be added as the doctor belongs to a particular department)
+
+13. You need to enter the date and time of the appointment.
+
+14. After entering the date and time appointment will be created successfully.
+
+15. Type y if you want to send the Email and text notifications else type n.
+
+16. Then to see the appointments on a certain date type the date else if you want to see the appointments
+    on the same date press enter all the appointments will be listed on the console.
+
+17. To logout type logout.
